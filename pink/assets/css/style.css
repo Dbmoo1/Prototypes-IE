@@ -20,8 +20,8 @@ GENERAL STYLES
 @import url(http://fonts.googleapis.com/css?family=Anton|Maven+Pro:500,700);
 
 body {
-    font-family: 'Maven Pro', sans-serif;
-    line-height: 25px;
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 25px;
 }
 
 .pad-bottom {
@@ -59,9 +59,9 @@ section {
 NAVBAR STYLES
 ==============================*/
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-    color: #fff;
-    font-size: 20px;
-    text-transform: uppercase;
+	color: #fff;
+	font-size: 18px;
+	text-transform: none;
 }
 .navbar-brand {
 padding:0px;
@@ -124,7 +124,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/home.jpg) no-repeat center center;
+    background: url(../img/logo2.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
